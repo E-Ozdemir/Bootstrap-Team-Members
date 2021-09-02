@@ -2,3 +2,6 @@
 	transform: rotate(90deg);
 	transform-origin: left top 0;
 }
+.form-check-input:checked  body{
+	background-color: black;
+}
